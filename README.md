@@ -1,6 +1,7 @@
 # ZTrack
 
 ![ZTrack Logo](path/to/logo.png)  <!-- Replace with your logo image path -->
+![Main Menu](https://i.ibb.co/5xNt800)  <!-- Replace with the correct link for the image if needed -->
 
 **ZTrack** is a powerful and user-friendly tracking tool designed to provide comprehensive information gathering from various platforms. With ZTrack, you can easily trace IP addresses, analyze phone numbers, and discover social media profiles—all from a single interface.
 
