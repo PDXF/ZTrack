@@ -1,8 +1,8 @@
 # ✨ ZTrack ✨
 
-**ZTrack** is a robust and intuitive tool designed for tracking and gathering crucial information about **IP addresses**, **phone numbers**, and **social media profiles**. Whether you’re a developer, researcher, or simply curious about digital footprints, ZTrack provides an easy-to-use interface with accurate data at your fingertips. 
+**ZTrack** is a robust and intuitive tool designed for tracking and gathering crucial information about **IP addresses**, **phone numbers**, and **social media profiles**. Whether you’re a developer, researcher, or simply curious about digital footprints, ZTrack provides an easy-to-use interface with accurate data at your fingertips.
 
-This project is brought to you by **PDXF**, aiming to empower users with the tools needed for information retrieval and analysis in a responsible and ethical manner.
+This project is brought to you by **PDXF** and **Quant-F**, aiming to empower users with the tools needed for information retrieval and analysis in a responsible and ethical manner.
 
 ---
 
@@ -12,10 +12,11 @@ This project is brought to you by **PDXF**, aiming to empower users with the too
 2. [Requirements](#requirements)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [Disclaimer](#disclaimer)
-7. [License](#license)
-8. [Contact](#contact)
+5. [Creators](#creators)
+6. [Contributing](#contributing)
+7. [Disclaimer](#disclaimer)
+8. [License](#license)
+9. [Contact](#contact)
 
 ---
 
