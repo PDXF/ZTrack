@@ -12,11 +12,12 @@ This project is brought to you by **PDXF** and **Quant-F**, aiming to empower us
 2. [Requirements](#requirements)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Creators](#creators)
-6. [Contributing](#contributing)
-7. [Disclaimer](#disclaimer)
-8. [License](#license)
-9. [Contact](#contact)
+5. [Extra Tools](#extra-tools)
+6. [Creators](#creators)
+7. [Contributing](#contributing)
+8. [Disclaimer](#disclaimer)
+9. [License](#license)
+10. [Contact](#contact)
 
 ---
 
@@ -26,31 +27,31 @@ ZTrack is packed with essential features to meet your tracking needs. Here’s a
 
 ### 🌍 IP Tracking
 
-- **Location Information**: Gain insights into the geographical location of an IP address, including its country, region, and city. This can help you understand where a user is connecting from.
+- **Location Information**: Gain insights into the geographical location of an IP address, including its country, region, and city.
   
-- **ISP Details**: Identify the Internet Service Provider associated with the IP address, which can provide additional context about the connection.
+- **ISP Details**: Identify the Internet Service Provider associated with the IP address.
 
-- **Hostname Lookup**: If available, retrieve the hostname of the IP address for better identification.
+- **Hostname Lookup**: Retrieve the hostname of the IP address for better identification.
 
-- **Geolocation Data**: Access comprehensive geolocation data, which may include latitude and longitude for mapping purposes.
+- **Geolocation Data**: Access comprehensive geolocation data, including latitude and longitude for mapping purposes.
 
 ### 📞 Phone Number Lookup
 
-- **Carrier Information**: Discover which carrier is associated with a given phone number, allowing you to identify the service provider.
+- **Carrier Information**: Discover which carrier is associated with a given phone number.
 
-- **Region Data**: Find out the region or area code linked to the phone number, which can help in localizing your search.
+- **Region Data**: Find out the region or area code linked to the phone number.
 
-- **Number Validity**: Validate whether the phone number is currently in use and operational.
+- **Number Validity**: Validate whether the phone number is currently in use.
 
-- **Type of Number**: Determine if the phone number is a mobile, landline, or VoIP number, providing insight into its usage.
+- **Type of Number**: Determine if the phone number is a mobile, landline, or VoIP number.
 
 ### 🔍 Social Media Username Search
 
-- **Multi-Platform Search**: Search for social media profiles across multiple platforms using usernames, enhancing your ability to connect with users.
+- **Multi-Platform Search**: Search for social media profiles across multiple platforms using usernames.
 
-- **Profile Existence Check**: Quickly verify if a specific username is taken on various social networks, which can be useful for branding or outreach efforts.
+- **Profile Existence Check**: Quickly verify if a specific username is taken on various social networks.
 
-- **Basic Profile Information**: Access basic details from public profiles where available, such as bio, followers, and more.
+- **Basic Profile Information**: Access basic details from public profiles where available.
 
 ---
 
@@ -74,7 +75,7 @@ Setting up ZTrack is a straightforward process. Follow these comprehensive steps
 
 ### Step 1: Clone the Repository
 
-Begin by cloning the ZTrack repository to your local machine. This action will download all the necessary files:
+Begin by cloning the ZTrack repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/ZTrack.git
