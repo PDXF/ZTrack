@@ -6,21 +6,6 @@ This project is brought to you by **PDXF** and **Quant-F**, aiming to empower us
 
 ---
 
-## 🌟 Table of Contents 🌟
-
-1. [Features](#features)
-2. [Requirements](#requirements)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Extra Tools](#extra-tools)
-6. [Creators](#creators)
-7. [Contributing](#contributing)
-8. [Disclaimer](#disclaimer)
-9. [License](#license)
-10. [Contact](#contact)
-
----
-
 ## 🚀 Features 🚀
 
 ZTrack is packed with essential features to meet your tracking needs. Here’s a closer look:
@@ -52,6 +37,32 @@ ZTrack is packed with essential features to meet your tracking needs. Here’s a
 - **Profile Existence Check**: Quickly verify if a specific username is taken on various social networks.
 
 - **Basic Profile Information**: Access basic details from public profiles where available.
+
+---
+
+## 🔧 Extra Tools 🔧
+
+In addition to the core features of ZTrack, two extra tools are included to enhance functionality:
+
+### ⚡ ThnderDDos
+
+**ThnderDDos** is a specialized tool designed for stress testing and simulating DDoS attacks on networks. This tool allows users to:
+
+- **Test Network Resilience**: Understand how well your network can handle high traffic loads and identify potential weaknesses.
+
+- **Simulate Attack Scenarios**: Create various attack scenarios to see how your systems respond, allowing you to enhance security measures.
+
+**Important Note**: Use this tool responsibly and ethically. Unauthorized testing on networks without permission is illegal and may lead to severe consequences.
+
+### 🧪 Token Tester
+
+The **Token Tester** is a utility designed to validate the functionality of tokens across various platforms. This tool is particularly useful for developers and security professionals who need to ensure that their tokens are working correctly. Key features include:
+
+- **Token Validation**: Quickly check if tokens are active and functioning correctly.
+
+- **Error Reporting**: Get detailed feedback on failed tokens, making it easier to troubleshoot and resolve issues.
+
+**Use Case**: Ideal for developers implementing API tokens or authentication tokens in their applications, ensuring everything works as intended.
 
 ---
 
